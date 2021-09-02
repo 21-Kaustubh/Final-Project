@@ -1,0 +1,22 @@
+
+
+Date :26/08/2021 (Basic Discussion)
+
+-> IAR embedded work bench
+-> segger Embedded Studio (By ARM)
+-> keil Microvision   
+-> Halcogen 
+-> CCS Code studio(TI)
+-> portability of code using #include <c type.h>
+-> RTOS 	
+ 	task 1:Reading data from sensor ,sending data to task two 
+	task 2: wait for data from task one,send data to interface ESP32  
+	
+	
+Dat:28/08/2021
+
+Question to be prepare
+-> how your core is staring up
+->power on reset
+
+
